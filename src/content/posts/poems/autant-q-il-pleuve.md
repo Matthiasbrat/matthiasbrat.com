@@ -9,12 +9,12 @@ draft: false
 lang: 'fr'
 ---
 
-Sans espérer attendre, la terre reçoit du ciel,
-son ongue à la vie se partage d'un courant agréable,
-Stimule les forêts, abreuve les champs, la faune humant,
-Les aléatoires visiteurs profitant de l'accalmie,
-Peu à peu s'invitent à explorer cette symphonie,
-S'éloigner dans les bois, s'impreigner encore,
-Ce dont la vie à de plus beaux, et de plus simple encore, l'amour d'un hôte,
-Je n'ai qu'une chose à dire alors, 
+Sans espérer attendre, la terre reçoit du ciel,<br />
+son ongue à la vie se partage d'un courant agréable,<br />
+Stimule les forêts, abreuve les champs, la faune humant,<br />
+Les aléatoires visiteurs profitant de l'accalmie,<br />
+Peu à peu s'invitent à explorer cette symphonie,<br />
+S'éloigner dans les bois, s'impreigner encore,<br />
+Ce dont la vie à de plus beaux, et de plus simple encore, l'amour d'un hôte,<br />
+Je n'ai qu'une chose à dire alors,<br />
 autant qu'il pleuve.
