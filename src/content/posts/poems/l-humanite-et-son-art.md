@@ -2,7 +2,7 @@
 title: l'Humanité et son art
 published: 2026-02-08
 description: ''
-image: '/image/morning-on-the-seine-in-the-rain.jpg'
+image: '/image/promenade-monet.jpg'
 tags: []
 category: 'poème'
 draft: false 
